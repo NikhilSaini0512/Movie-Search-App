@@ -59,6 +59,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [MIT](LICENSE)
 
+<img width="1404" alt="Screenshot 2025-05-06 at 11 51 20 PM" src="https://github.com/user-attachments/assets/ae3ed2b1-c164-4849-960d-551eb2874edb" />
 
----
+
+
+
+<img width="1386" alt="Screenshot 2025-05-06 at 11 51 43 PM" src="https://github.com/user-attachments/assets/202f931e-a7f8-4c41-afaf-7468132a4076" />
+
 
